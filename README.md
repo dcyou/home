@@ -55,5 +55,11 @@ fuirait par différence à chaque sortie). La section « En préparation » ne c
 qu'une carte teaser anonyme. Une app n'y gagne son nom que le jour où elle est
 publiquement accessible.
 
+**Cette règle s'applique au commit, pas seulement à la page** : sur un dépôt
+public, un commit reste servi par `raw.githubusercontent.com` même après que son
+contenu a été retiré de la page. Retirer un nom dans un commit suivant ne
+l'efface pas, ça le laisse une URL plus loin — la règle vaut donc **avant** le
+commit.
+
 Mentions légales par application : https://dcyou.github.io/legal/
 Contact : support@dcyou.co
