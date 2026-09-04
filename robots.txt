@@ -1,0 +1,7 @@
+# dcyou.co — site vitrine du portfolio.
+# Tout est public et indexable ; les apps vivent sur leurs propres sous-domaines,
+# chacun avec son robots.txt et son sitemap.
+User-agent: *
+Allow: /
+
+Sitemap: https://dcyou.co/sitemap.xml
