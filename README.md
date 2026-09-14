@@ -33,7 +33,7 @@ les autres project pages aussi.
     AAAA  @    2606:50c0:8003::153
     CNAME www  dcyou.github.io.
 
-Les sous-domaines existants (`letterscatch`, `duomatch`, `animalsoul`, …) ne sont
+Les sous-domaines existants (`letterscatch`, …) ne sont
 pas concernés : ils gardent leurs enregistrements actuels.
 
 Une fois les A/AAAA en place et le certificat émis, activer **Enforce HTTPS**
