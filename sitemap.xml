@@ -8,6 +8,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://prisme.dcyou.co/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://letterscatch.dcyou.co/</loc>
     <lastmod>2026-09-04</lastmod>
     <priority>0.8</priority>
